@@ -27,7 +27,7 @@ window.addEventListener('scroll', () => {
 const factDetails = {
   education: `
   <h4>Education</h4>
-  <p>I am currently a junior studying computer scienceg at Barnard College, Columbia University after transferring from Diablo Valley College!</p>
+  <p>I am currently a junior studying computer science at Barnard College, Columbia University after transferring from Diablo Valley College!</p>
   `,
   skills: `
     <h4>Skills</h4>
