@@ -42,7 +42,7 @@ const factDetails = {
   `,
   interests: `
     <h4>Interests</h4>
-    <p>I am passionate about combining technology and design with social good!</p>
+    <p>I am passionate about using tech — especially AI — to improve fields like business and education. I've worked at startups and published <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4989842" style = "text-decoration: none;"><strong style="color: var(--accent-color);">research</strong></a> on how we can continue to develop current practices.</p>
   `
 };
 
