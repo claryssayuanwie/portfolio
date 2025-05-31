@@ -63,11 +63,17 @@ h3, h4 {
   flex-direction: row;
   gap: 1rem;
   white-space: nowrap;
+  flex-wrap: wrap;
+  justify-content: center;
+
 }
 
 @media (max-width: 768px) {
   .navbar-brand {
     font-size: 24px;
+    justify-content: center;
+    text-align: center;
+
   }
   .nav-link {
     padding: 0.5rem 0.75rem;
