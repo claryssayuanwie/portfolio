@@ -34,9 +34,8 @@ const factDetails = {
     <ul>
     <li>UI/UX Design</li>
     <li>Figma</li>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>C++</li>
+    <li>Languages: JavaScript, HTML/CSS, Python, C/C++</li>
+    <li>Research</li>
     <li>Product Managment</li>
   </ul>
   `,
