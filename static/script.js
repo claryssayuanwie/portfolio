@@ -36,7 +36,7 @@ const factDetails = {
     <li>Figma</li>
     <li>Research</li>
     <li>Product Managment</li>
-    <li>Languages: JavaScript, HTML/CSS, Python, C/C++</li>
+    <li>Languages: Python, C/C++, JavaScript, HTML/CSS, SQL</li>
   </ul>
   `,
   interests: `
