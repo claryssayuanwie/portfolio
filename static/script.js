@@ -27,7 +27,7 @@ window.addEventListener('scroll', () => {
 const factDetails = {
   education: `
   <h4>Education</h4>
-  <p>I am currently a junior studying computer science at Barnard College, Columbia University after transferring from Diablo Valley College!</p>
+  <p>I am currently a rising senior studying computer science & mathematics at Barnard College, Columbia University. I transferred from Diablo Valley College in the Bay Area! I was also dual enrolled at Cornell University.</p>
   `,
   skills: `
     <h4>Skills</h4>
